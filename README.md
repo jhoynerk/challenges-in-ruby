@@ -5,7 +5,7 @@ Retos de ejercicios Llevamos a Ruby, iremos desde los ejercicios mas faciles, ha
 
 [nachocabanes](http://www.nachocabanes.com/retos/propuestos.php)
 
-### Nivel 1 (números, if, for, while,...):
+### Nivel 1 (números, if, for, while,...):
 
 1. Reto 022: Mayor de dos números (nivel: 1 )
 2. Reto 023: Mínimo común múltiplo de tres números (nivel: 1 )
@@ -23,7 +23,7 @@ Retos de ejercicios Llevamos a Ruby, iremos desde los ejercicios mas faciles, ha
 7. Reto 016: Sopa de letras (nivel: 2 )
 8. Reto 001: Una suma difícil (nivel: 2 )
 
-### Nivel 3 (funciones, estructuras dinámicas):
+### Nivel 3 (funciones, estructuras dinámicas):
 
 1. Reto 002: Invertir palabras (nivel: 3 )
 2. Reto 005: El problema del biólogo (nivel: 3 )
