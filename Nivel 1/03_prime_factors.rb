@@ -22,7 +22,7 @@ end
 
 # Automatic test
 class ModulinoTest < Test::Unit::TestCase
-  def test_least_common_multiple
+  def test_prime_factoris
     value = 4
     assert_equal( '2 2', PrimeFactors.new(value).list)
 
