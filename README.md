@@ -8,9 +8,9 @@ Retos de ejercicios Llevamos a Ruby, iremos desde los ejercicios mas faciles, ha
 ### Nivel 1 (números, if, for, while,...):
 
 1. Reto 022: [Mayor de dos números (nivel: 1 )](/Nivel%201/01_greater.rb)
-2. Reto 023: Mínimo común múltiplo de tres números (nivel: 1 )
-3. Reto 028: Factores primos (nivel: 1 )
-4. Reto 013: Fracción irreducible (nivel: 1 )
+2. Reto 023: [Mínimo común múltiplo de tres números (nivel: 1 )](/Nivel%201/02_least_common_multiple.rb)
+3. Reto 028: [Factores primos (nivel: 1 )](/Nivel%201/03_prime_factors.rb)
+4. Reto 013: [Fracción irreducible (nivel: 1 )](/Nivel%201/04_irreducible_fraction.rb)
 
 ### Nivel 2 (arrays, cadenas de texto):
 
