@@ -18,7 +18,7 @@ Retos de ejercicios Llevamos a Ruby, iremos desde los ejercicios mas faciles, ha
 2. Reto 030: [Enunciado](http://www.nachocabanes.com/retos/reto.php?n=030) | [Pangramas (nivel: 2 )](/Nivel%202/02_pangrams.rb)
 3. Reto 025: [Enunciado](http://www.nachocabanes.com/retos/reto.php?n=025) | [Potitos (nivel: 2 )](/Nivel%202/03_potitos.rb)
 4. Reto 027: [Enunciado](http://www.nachocabanes.com/retos/reto.php?n=027) | [Abdicación de un Rey (nivel: 2 )](/Nivel%202/04_abdication.rb)
-5. Reto 003: [Enunciado](http://www.nachocabanes.com/retos/reto.php?n=003) | El reloj (nivel: 2 )
+5. Reto 003: [Enunciado](http://www.nachocabanes.com/retos/reto.php?n=003) | [El reloj (nivel: 2 )](/Nivel%202/05_clock.rb)
 6. Reto 029: [Enunciado](http://www.nachocabanes.com/retos/reto.php?n=029) | Fila repetida en una matriz (nivel: 2 )
 7. Reto 016: [Enunciado](http://www.nachocabanes.com/retos/reto.php?n=016) | Sopa de letras (nivel: 2 )
 8. Reto 001: [Enunciado](http://www.nachocabanes.com/retos/reto.php?n=001) | Una suma difícil (nivel: 2 )
