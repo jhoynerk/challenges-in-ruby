@@ -45,8 +45,11 @@ class Clock
 
   def add_second_to_clock
     number = clock_to_i + 1
-    number = number.to_s.rjust(6, '0')
-    @clock = generate_clock(number)
+    @clock = generate_clock(number_in_string(number))
+  end
+
+  def number_in_string(number)
+    number.to_s.rjust(6, '0')
   end
 
   def clock_to_i
@@ -79,6 +82,15 @@ class ModulinoTest < Test::Unit::TestCase
 
     seconds = 4
     assert_equal( 172 , Clock.new(seconds).sum_leds_on)
+
+    seconds = 10
+    assert_equal( 380 , Clock.new(seconds).sum_leds_on)
+
+    seconds = 360
+    assert_equal( 11553 , Clock.new(seconds).sum_leds_on)
   end
 end
 
+# Manual Testing
+value =  gets.to_i
+p Clock.new(value).sum_leds_on
